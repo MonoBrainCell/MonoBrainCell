@@ -53,7 +53,11 @@
     </li>
 </ul>
 <h2>📫 Контактные данные:</h2>
-<p>Будут добавлены в ближайшее время</p>
+<ul>
+    <li><strong>Email:</strong> s.r.sahapov@ya.ru</li>
+    <li><strong>Telegram:</strong> 9538745455 <strong>(с 01.11.2022)</strong></li>
+    <li><strong>WhatsApp:</strong> 9538745455 <strong>(с 01.11.2022)</strong></li>
+</ul>
 <!--
 **MonoBrainCell/MonoBrainCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
